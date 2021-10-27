@@ -1,0 +1,28 @@
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.exe
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.deps.json
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.runtimeconfig.json
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.runtimeconfig.dev.json
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.dll
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.pdb
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.csproj.AssemblyReference.cache
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.AssemblyInfoInputs.cache
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.AssemblyInfo.cs
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.csproj.CoreCompileInputs.cache
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.dll
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.pdb
+C:\GitHubDevBuild\repos\BlockbusterLab\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.genruntimeconfig.cache
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.exe
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.deps.json
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.runtimeconfig.json
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.runtimeconfig.dev.json
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.dll
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\bin\Debug\netcoreapp3.1\BlockbusterLab.pdb
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.csproj.AssemblyReference.cache
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.AssemblyInfoInputs.cache
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.AssemblyInfo.cs
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.csproj.CoreCompileInputs.cache
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.dll
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.pdb
+C:\Users\Rmagdaleno\OneDrive - KNEX\Downloads\BlockbusterLab-master\BlockbusterLab-master\BlockbusterLab\obj\Debug\netcoreapp3.1\BlockbusterLab.genruntimeconfig.cache
